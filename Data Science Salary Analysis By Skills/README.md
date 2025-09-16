@@ -3,7 +3,7 @@
 
 ## Introduction
 
-As part of Luke Barousse's Microsoft Excel course, I created an Excel sheet to analyse the highest-paying skills in the data science market. In this project we set out to understand what skills most employers are requesting.
+As part of my aim to gain more experience using Microsoft Excel, I created an Excel sheet to analyse the highest-paying skills in the data science market. In this project we set out to understand what skills most employers are requesting.
 
 ### Questions to Analyse
 
