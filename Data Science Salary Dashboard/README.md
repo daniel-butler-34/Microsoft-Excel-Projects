@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This data jobs salary dashboard was created as part of Luke Barousse's Microsoft Excel course. The data we used contains detailed information on job titles, salaries, locations, and essential skills from multiple countries.
+This data jobs salary dashboard was created as part of my aim to build experience using Microsoft Excel. The data we used contains detailed information on job titles, salaries, locations, and essential skills from multiple countries.
 
 ### Dashboard File
 My final dashboard is in [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).
