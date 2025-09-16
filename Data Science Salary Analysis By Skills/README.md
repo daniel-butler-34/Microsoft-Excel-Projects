@@ -151,3 +151,5 @@ The most in-demand skills such as Python, SQL and Oracle are associated with hig
 ### Conclusions
 
 The above chart, as well as the analysis carried out in the earlier sections of the project, highlights the importance of investing the time to learn high-value skills such as Python and SQL (which are evidently tied to higher-paying roles).
+
+(Credit to Luke Barousse for the data set and the course)
