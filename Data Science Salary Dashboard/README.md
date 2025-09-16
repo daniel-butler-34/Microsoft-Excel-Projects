@@ -93,3 +93,4 @@ A filtered list is used as a data validation rule under the `Job title`, `Countr
 
 Restricting these entries to predefined inputs improves the overall usability of the dashboard, while ensuring that none of the backend formulas run into errors as a result of the user potentially entering erroneous data into any one of the fields.
 
+(Credit to Luke Barousse for the data set and the course)
