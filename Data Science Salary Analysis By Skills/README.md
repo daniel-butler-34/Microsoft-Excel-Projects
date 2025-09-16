@@ -10,9 +10,9 @@ As part of Luke Barousse's Microsoft Excel course, I created an Excel sheet to a
 In this project, we set out to answer the following questions:
 
 1. **Do more skills get you better pay?**
-2. **What’s the salary for data jobs in different regions?**
-3. **What are the top skills of data professionals?**
-4. **What’s the pay for the top 10 skills?**
+2. **What is the salary for data jobs in different regions?**
+3. **What are the top skills in the data science industry?**
+4. **What are the salaries of the most in-demand skills?**
 
 ### Excel Functions Used
 
@@ -102,7 +102,7 @@ Senior roles command higher median salaries both in the United States (where the
 
 These salary insights are helpful for companies looking to align their offers with market standards while still taking account of geographic variations in the median salary.
 
-## 3. What are the top skills of data professionals?
+## 3. What are the top skills in the data science industry?
 
 ### Tool: Power Pivot
 
